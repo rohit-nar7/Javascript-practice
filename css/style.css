@@ -1,0 +1,40 @@
+/* Write style code here*/
+
+
+#header{
+    border: 2px solid ; 
+    background-color: rgb(13, 13, 160);
+}
+#header h1 {
+    color:aqua;
+}
+
+#card{
+    box-shadow: 0 4px 8px 0 lightgoldenrodyellow;
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+#one {
+    border-radius: 100% !important;
+}
+input{
+    border: none !important;
+    border-bottom: 1px solid gray !important;
+    display: inline !important;
+    width: 95%;
+    margin-top: 10px;
+}
+
+#h{
+    font-weight: bold !important;
+}
+
+form {
+    padding: 50px;
+}
+
+#main {
+    display: inline-flex !important;
+}
